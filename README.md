@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Sunil Kumar Kashyap
 - 👀 I’m interested website cloning, creating a new thing using html css or tailwind css 
-- 🌱 I’m currently learning form PW Skill Online Platform. my batch is Full Stack Web Developer
+- 🌱 I’m currently learning form PW Skill Online Platform. my batch is Full Stack Web Developer.
+- 🌱 I’m currently working as a computer operator on CSC Center from 4 Years.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
