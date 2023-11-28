@@ -14,10 +14,12 @@ I'm a frontend web developer passionate about creating responsive and user-frien
 
 ## Skills
 - HTML, CSS, JavaScript
-- React.js, Vue.js
-- UI/UX Design
+- Tailwind CSS
 - Version Control (Git)
-- ...
+- Adobe Photoshop
+- Advanced Excel
+- Tally Prime & Tally Erp9.0
+- Microsoft Office
 
 ## Let's Connect
-[LinkedIn](link-to-linkedin) | [Portfolio](link-to-portfolio) | [Twitter](link-to-twitter)
+[LinkedIn](sunil-kashyap-8b3008286) | [Portfolio](link-to-portfolio) | [Twitter](link-to-twitter)
