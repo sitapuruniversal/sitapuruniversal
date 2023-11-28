@@ -11,6 +11,7 @@ I'm a frontend web developer passionate about creating responsive and user-frien
 ## Projects
 - [Project 1](https://github.com/sitapuruniversal/MildStone_Repo)) - Mildstone Repo from PW Skill.
 - [Project 2](https://github.com/sitapuruniversal/MildStone_Repo/tree/main/Project%2005) - Random Password Generator Using skill html, tailwindcss and JavaScript with condition of password range.
+- [Project 3](https://github.com/sitapuruniversal/My_CSS_Project/tree/main/Amazon%20Clone) - Amazon Clone.
 
 ## Skills
 - HTML, CSS, JavaScript
