@@ -9,7 +9,7 @@ I'm a frontend web developer passionate about creating responsive and user-frien
 - Contact me :   7388562419 , 9450189537
 
 ## Projects
-- [Project 1](https://github.com/sitapuruniversal/MildStone_Repo)) - Short description.
+- [Project 1](https://github.com/sitapuruniversal/MildStone_Repo)) - Mildstone Repo from PW Skill.
 - [Project 2](https://github.com/sitapuruniversal/MildStone_Repo/tree/main/Project%2005) - Random Password Generator Using skill html, tailwindcss and JavaScript with condition of password range.
 
 ## Skills
