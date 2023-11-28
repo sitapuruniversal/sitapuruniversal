@@ -10,7 +10,7 @@ I'm a frontend web developer passionate about creating responsive and user-frien
 
 ## Projects
 - [Project 1](https://github.com/sitapuruniversal/MildStone_Repo)) - Short description.
-- [Project 2](link-to-project2) - Short description.
+- [Project 2](https://github.com/sitapuruniversal/MildStone_Repo/tree/main/Project%2005) - Random Password Generator Using skill html, tailwindcss and JavaScript with condition of password range.
 
 ## Skills
 - HTML, CSS, JavaScript
