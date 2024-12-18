@@ -23,4 +23,4 @@ I'm a frontend web developer passionate about creating responsive and user-frien
 - Microsoft Office
 
 ## Let's Connect
-[LinkedIn](www.linkedin.com/in/sunil-kashyap-8b3008286) | [Portfolio](link-to-portfolio) | [Twitter](link-to-twitter)
+[LinkedIn](www.linkedin.com/in/sunil-kumar-kashyap) | [Portfolio](link-to-portfolio) | [Twitter](link-to-twitter)
